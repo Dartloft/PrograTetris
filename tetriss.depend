@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1646179237 source:d:\proyectos\carpeta tetris\tetriss\main.cpp
+	<iostream>
+	"Cell.h"
+	"Piece.h"
+	"Board.h"
+	"Game.h"
+
+1646179397 d:\proyectos\carpeta tetris\tetriss\include\cell.h
+	<iostream>
+
+1646179364 d:\proyectos\carpeta tetris\tetriss\include\piece.h
+	"Cell.h"
+	<vector>
+	<stdlib.h>
+	<time.h>
+
+1646179306 d:\proyectos\carpeta tetris\tetriss\include\board.h
+	"Piece.h"
+	<vector>
+	<algorithm>
+
+1646179261 d:\proyectos\carpeta tetris\tetriss\include\game.h
+	<iostream>
+	<vector>
+	<algorithm>
+	"windows.h"
+	"Cell.h"
+	"Piece.h"
+	"Board.h"
+
+1646179323 source:d:\proyectos\carpeta tetris\tetriss\src\board.cpp
+	"Board.h"
+
+1646179406 source:d:\proyectos\carpeta tetris\tetriss\src\cell.cpp
+	"Cell.h"
+
+1646179280 source:d:\proyectos\carpeta tetris\tetriss\src\game.cpp
+	"Game.h"
+
+1646179348 source:d:\proyectos\carpeta tetris\tetriss\src\piece.cpp
+	"Piece.h"
+
